@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+# Name : P.Bharathraj
+# Ref : 212223230031
+
 
 # Aim : 
 

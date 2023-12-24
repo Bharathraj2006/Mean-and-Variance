@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
 
-# Name   : P.Bharathraj
+# Name    : P.Bharathraj
 # Ref no : 212223230031
 
 
